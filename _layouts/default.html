@@ -21,14 +21,6 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.11.1/katex.min.js"></script>
 </head>
 <body>
-	<style>
-		.katex-version {display: none;}
-		.katex-version::after {content:"0.10.2 or earlier";}
-	  </style>
-	  <span class="katex">
-		<span class="katex-mathml">The KaTeX stylesheet is not loaded!</span>
-		<span class="katex-version rule">KaTeX stylesheet version: </span>
-	  </span>
 	<div class="wrapper">
 		<div class="default_title">
 			<img src="/assets/img/mycomputer.png" />
@@ -98,22 +90,22 @@
 				{% endif %}
 			</div>
 		</div>
+		<script>
+			$("script[type='math/tex']").replaceWith(function() {
+				var tex = $(this).text();
+				return KaTeX.renderToString(tex, {displayMode: false});
+			});
+		  
+			$("script[type='math/tex; mode=display']").replaceWith(function() {
+				var tex = $(this).html();
+				return KaTeX.renderToString(tex.replace(/%.*/g, ''), {displayMode: true});
+			});
+		</script>
     {% endif %}
 	<script src="/assets/js/001.js"></script>
 	<script src="/assets/js/002.js"></script>
 	<div class="footer">
 		<p>Created by <a href="http://github.com/h01000110" target="_blank">h01000110 (hi)</a> | Code licensed under <a href="https://github.com/h01000110/h01000110.github.io/blob/master/LICENSE" target="_blank">MIT License</a></p>
 	</div>
-	<script>
-		$("script[type='math/tex']").replaceWith(function() {
-			var tex = $(this).text();
-			return KaTeX.renderToString(tex, {displayMode: false});
-		});
-	  
-		$("script[type='math/tex; mode=display']").replaceWith(function() {
-			var tex = $(this).html();
-			return KaTeX.renderToString(tex.replace(/%.*/g, ''), {displayMode: true});
-		});
-	</script>
 </body>
 </html>
