@@ -112,7 +112,7 @@ ul.topbar {
 			overflow: hidden;
 			text-overflow: ellipsis;
 			white-space: nowrap;
-			text-align: justify;
+			text-align: center;
 
 			img {
 				display: block;
@@ -199,6 +199,7 @@ ul.topbar {
 	p {
 		line-height: 150%;
 		margin-bottom: 15px;
+		text-align: justify;
 	}
 
 	a {
