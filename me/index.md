@@ -3,4 +3,10 @@ layout: me
 title: me
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lobortis placerat enim nec cursus. Ut et elit congue, facilisis dui id, efficitur velit. Integer faucibus velit varius arcu consectetur aliquam. Sed dui ante, euismod non malesuada vel, suscipit vel elit. Nullam tempor vehicula urna, sed dignissim ligula hendrerit in. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin et nisi eget nunc vehicula posuere. Nam elementum finibus auctor. Suspendisse a mauris et arcu molestie egestas sed et dolor. Nullam ut est tristique, iaculis tortor non, viverra felis. Praesent a tincidunt tellus, eget congue eros. Mauris non libero nec ipsum ultricies tincidunt sit amet nec ante. Duis molestie sem at ligula rhoncus viverra. Pellentesque sit amet tortor euismod, rhoncus lacus a, sodales odio. Proin ac convallis ipsum. Cras tincidunt mollis consequat.
+My name is Yi Zhou. My email address is zhouyi1023@tju.edu.cn.
+
+I received my bachelor’s degree in Fluid Mechanics from Tianjin University in 2016 and my first MSc degree in Advanced Control and System Engineering with distinction from the University of Manchester in 2017. From 2018 to 2019, I worked as an algorithm engineer in the R&D department in SAIC-GM. From 2019, I start to pursue my second MSc degree in Computer Vision, Robotics and Machine Learning from University of Surrey. I am studying the computer vision, audio and speech processing and robotics. My dissertation topic is about audio-visual tracking for unknown numbers of speakers in the meeting room. 
+
+I like to read technical news and books, then write my own views and summaries. I am curious about the emerging technologies like autonomous driving, audio assistant, internet of things and so on. I am writing articles for a wechat technical media in my spare time. As a mdeia reporter, I covered the CES Asia twice from 2018-2019. 
+
+This website works as my knowledge base. Since I have learnt a lot of cross-discipline knowledge, I feel that it is very difficult to memorize all these. Paper notebooks are hard to maintain and hard to quick search. Therefore, I decide to go electronic. In this website, I manage to record the core concepts for each topic and these concepts can give me quick recall if someday I need to use them.

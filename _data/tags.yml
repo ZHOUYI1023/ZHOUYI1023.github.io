@@ -1,11 +1,32 @@
 tag1:
-  name: tag1
+  name: Control Theory
 
 tag2:
-  name: tag2
+  name: Computer Vision
 
 tag3:
-  name: tag3
+  name: Audio Processing
 
 tag4:
-  name: tag4
+  name: Sensor Fusion
+
+tag5:
+  name: General Programming
+
+tag6:
+  name: Toolbox and Library
+
+tag7:
+  name: Applied Mathematics
+
+tag8:
+  name: Embedded System
+
+tag9:
+  name: Software Engineering
+
+tag10:
+  name: Project Management
+
+tag11:
+  name: Productivity Tools
