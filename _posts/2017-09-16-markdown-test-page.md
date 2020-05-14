@@ -168,7 +168,7 @@ Sint ea anim ipsum ad commodo cupidatat do **exercitation** incididunt et minim 
 
 ![Super wide](http://placekitten.com/1280/800)
 
-*Proident sit veniam in est proident officia adipisicing* ea tempor cillum non cillum velit deserunt. Voluptate laborum incididunt sit consectetur Lorem irure incididunt voluptate nostrud. Commodo ut eiusmod tempor cupidatat esse enim minim ex anim consequat. Mollit sint \culpa qui laboris quis consectetur ad sint esse. Amet anim anim minim ullamco et duis non irure. Sit tempor adipisicing ea laboris `culpa ex duis sint` anim aute reprehenderit id eu ea. Aute [excepteur proident](#!) Lorem minim adipisicing nostrud mollit ad ut voluptate do nulla esse occaecat aliqua sint anim.
+*Proident sit veniam in est proident officia adipisicing* ea tempor cillum non cillum velit deserunt. Voluptate laborum incididunt sit consectetur Lorem irure incididunt voluptate nostrud. Commodo ut eiusmod tempor cupidatat esse enim minim ex anim consequat. Mollit sint culpa qui laboris quis consectetur ad sint esse. Amet anim anim minim ullamco et duis non irure. Sit tempor adipisicing ea laboris `culpa ex duis sint` anim aute reprehenderit id eu ea. Aute [excepteur proident](#!) Lorem minim adipisicing nostrud mollit ad ut voluptate do nulla esse occaecat aliqua sint anim.
 
 ![Not so big](http://placekitten.com/480/400)
 
@@ -177,10 +177,3 @@ Incididunt in culpa cupidatat mollit cillum qui proident sit. In cillum aliquip 
 [![Box](http://img.youtube.com/vi/qEuD6v1Y9fg/0.jpg)](http://www.youtube.com/watch?v=qEuD6v1Y9fg)
 
 Reprehenderit non eu quis in ad elit esse qui aute id [incididunt](#!) dolore cillum. Esse laboris consequat dolor anim exercitation tempor aliqua deserunt velit magna laboris. Culpa culpa minim duis amet mollit do quis amet commodo nulla irure.
-
-$$ \int u \frac{dv}{dx}\,dx=uv-\int \frac{du}{dx}v\,dx $$
-
-equation $\frac{x+1}{3}$
-\begin{equation}
-    q(x)=\frac{g(x)l(x)}{K(x)}
-\end{equation}
