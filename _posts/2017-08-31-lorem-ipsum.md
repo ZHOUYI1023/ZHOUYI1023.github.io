@@ -12,7 +12,9 @@ Mauris eu lectus fermentum leo dictum hendrerit. Maecenas vel leo sit amet quam 
 
 inline equation$x+1$
 block equation
-$$\frac{1}{x}$$
+$$
+\frac{1}{x}
+$$
 \begin{equation}
     x+1
 \end{equation}
